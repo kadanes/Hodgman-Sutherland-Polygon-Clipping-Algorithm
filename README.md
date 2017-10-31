@@ -1,13 +1,13 @@
 # Hodgman-Sutherland-Polygon-Filling-Algorithm
 This is an implementation of Hodgman Sutherland polygon clipping algorithm using graphics.h in c. 
 <hr>
-**The current polygon points have been hardcoded** 
+##### The current polygon points have been hardcoded
 
 You can take the input from user and store it in the point struct.
 Don't forgert to innitialize the "innitialPointCount" to number of points. 
 Also ensure that the points are stored in cyclic manner.
 <hr>
-**Need help with using graphics.h?**
+##### Need help with using graphics.h?
 
 >Mirrored from https://chahalgurpinder95.wordpress.com/2013/10/12/install-graphics-h-in-ubuntu/
 
