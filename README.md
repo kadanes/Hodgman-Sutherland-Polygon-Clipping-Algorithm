@@ -47,8 +47,3 @@ And if you got error message “configure: error: *** SDL version 1.2.0 not foun
 Another error which you can get is: “configure: cannot find guile-config; is Guile installed?” Solve this by using command“sudo apt-get install guile guile-dev”.
 
 If this didn’t helped much, then we have another way to get it work in right way. Use synaptic package manager to install related files.
-
-### Output
-
-
-
