@@ -8,7 +8,8 @@ You can take the input from user and store it in the point struct.
 Don't forgert to innitialize the "innitialPointCount" to number of points. 
 Also ensure that the points are stored in cyclic manner.
 
-####Output:
+### Output:
+
 ![Alt text](/Demo.png?raw=true "Clipped output")
 
 <hr>
